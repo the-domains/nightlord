@@ -1,0 +1,28 @@
+name: NIGHTLORD
+favicon: null
+layout_spectrum: 0.593144812155515
+typography_spectrum: 0.44212058163248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8076804254669696
+  lightness: 0.827429658267647
+  saturation: 0.7274301953148097
+  rhythmicContrast: 0.3214078447781503
+purpose: []
