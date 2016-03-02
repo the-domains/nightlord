@@ -4,8 +4,15 @@
         <description><![CDATA[NIGHTLORD]]></description>
         <link>https://thegrid.ai/nightlord/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 02:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 02:06:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nightlord/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b7bbf4-47f3-4b80-8ced-19b0285f5a6d.jpg">]]></description>
+            <link>https://thegrid.ai/nightlord/712bc5d0-a1e8-43c2-8976-5459c0d4e986/index.html</link>
+            <guid isPermaLink="false">712bc5d0-a1e8-43c2-8976-5459c0d4e986</guid>
+            <pubDate>Wed, 02 Mar 2016 02:04:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5905bb0-ba30-4820-8436-c1bcaa354733.jpg">]]></description>
@@ -67,13 +74,6 @@
             <link>https://www.facebook.com/nightlorduk/?fref=ts</link>
             <guid isPermaLink="false">2cde0324-2b71-47c4-bf33-777a4197937f</guid>
             <pubDate>Wed, 02 Mar 2016 01:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24b9941d-c2a0-49ec-859b-abb5f840d147.jpg">]]></description>
-            <link>https://www.facebook.com/nightlorduk/photos/a.113663558688075.32512.113663335354764/547697751951318/?type=3</link>
-            <guid isPermaLink="false">3802c8f5-7082-43a8-939f-be68c8ada2d2</guid>
-            <pubDate>Wed, 02 Mar 2016 01:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
