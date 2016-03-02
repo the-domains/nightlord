@@ -4,8 +4,15 @@
         <description><![CDATA[NIGHTLORD]]></description>
         <link>https://thegrid.ai/nightlord/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 01:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 01:50:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nightlord/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="30th June 2011" src="https://scontent.xx.fbcdn.net/hphotos-xaf1/t31.0-8/s720x720/335336_400881403299621_683359767_o.jpg">]]></description>
+            <link>https://www.facebook.com/media/set/?set=a.400881369966291.106351.113663335354764&amp;type=3</link>
+            <guid isPermaLink="false">d0318a71-e6ad-4065-8776-f73b77d44877</guid>
+            <pubDate>Wed, 02 Mar 2016 01:49:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd136b9-cb30-453d-bff2-74602a3a42b8.jpg">]]></description>
@@ -67,13 +74,6 @@
             <link>https://www.facebook.com/nightlorduk/photos/a.113663558688075.32512.113663335354764/547697678617992/?type=3</link>
             <guid isPermaLink="false">09463122-f866-4ecc-a57f-eb6061b71db0</guid>
             <pubDate>Wed, 02 Mar 2016 01:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thrash Metal Catacombs]]></title>
-            <description><![CDATA[<article><h1>Thrash Metal Catacombs</h1><p>Thrash Metal Catacombs group has 381 members at Last.fm. Connected artists include Aftermath, PAPSMEAR, Battalion. The group embraces all forgotten and obscure thrash metal acts from the past and present days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bb73c2ec0a9a5d55adbd8a6c76c85949c3d1f6a.png"></article>]]></description>
-            <link>http://www.last.fm/group/Thrash+Metal+Catacombs</link>
-            <guid isPermaLink="false">b33f73d1-a5eb-448c-bded-195eb5816f55</guid>
-            <pubDate>Wed, 02 Mar 2016 01:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
