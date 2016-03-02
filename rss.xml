@@ -4,8 +4,15 @@
         <description><![CDATA[NIGHTLORD]]></description>
         <link>https://thegrid.ai/nightlord/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 01:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 01:42:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nightlord/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e71d3a3-0cc8-4e58-bcf3-1458922c3cf8.jpg">]]></description>
+            <link>https://thegrid.ai/nightlord/cf2be306-8597-4f4e-a90a-91433eacb0ec/index.html</link>
+            <guid isPermaLink="false">cf2be306-8597-4f4e-a90a-91433eacb0ec</guid>
+            <pubDate>Wed, 02 Mar 2016 01:42:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/869c4843-5036-4104-a02e-3a690df04107.jpg">]]></description>
@@ -66,13 +73,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e62fc6ef-3bf8-402b-bf97-8ad2d5b00238.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/nightlord/e307017c-f73a-40bd-90c5-320b3ad3b468/index.html</link>
             <guid isPermaLink="false">e307017c-f73a-40bd-90c5-320b3ad3b468</guid>
-            <pubDate>Wed, 02 Mar 2016 01:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/551014_547698061951287_1620736208_n.jpg?oh=704a4497132ab7475720289231bf7990&oe=5756F6DE">]]></description>
-            <link>https://thegrid.ai/nightlord/ec4a584e-df58-4a52-8884-47c53c9d6e92/index.html</link>
-            <guid isPermaLink="false">ec4a584e-df58-4a52-8884-47c53c9d6e92</guid>
             <pubDate>Wed, 02 Mar 2016 01:11:27 GMT</pubDate>
         </item>
     </channel>
